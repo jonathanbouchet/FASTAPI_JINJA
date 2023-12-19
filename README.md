@@ -1,1 +1,2 @@
-# FASTAPI_JINJA
+- https://github.com/patrickloeber/python-fun/blob/master/webapps/fastapi/models.py
+- https://www.youtube.com/watch?v=3vfum74ggHE
